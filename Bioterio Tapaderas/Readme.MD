@@ -8,5 +8,6 @@ Despues de realizar multiples pruebas se llego al siguiente resultado
 
 <img src="foto1.jpeg"/> 
 <img src="foto2.jpeg"/> 
-<img src="foto3.jpeg"/> 
-<img src="foto4.jpeg"/> 
+<img src="foto7.jpeg"/> 
+<img src="foto9.jpeg"/> 
+<img src="foto6.jpeg"/> 
