@@ -5,5 +5,5 @@ el FabLab-USAC propuso realizar los separadores en acrilico para que no se defor
 El bioterio prototipo un diseño hecho de carton, a partir de ese prototipo el laboratorio lo modifico para que se pudiera realizar en acrilico y fuera lo mas rigido posible para que las ratas no lo desarmaran y escaparan.
 
 ## diseño final
-<img src="Bioterio Separadores.JPG.jpeg"/> 
+<img src="Bioterio Separadores.JPG"/> 
 <img src="foto1.jpeg"/> 
